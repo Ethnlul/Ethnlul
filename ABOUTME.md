@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ethnlul
+- 👀 I code Python and Javascript
+- 🌱 I’m currently learning Lua and Ruby
+- 📫 You can contact me via discord at ethn.js#0005
